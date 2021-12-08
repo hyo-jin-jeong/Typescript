@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "ES2015", 
+        "sourceMap": true   
+    },
+    "include":["index.ts"], //컴파일에 포함 할 파일
+    "exclude": ["node_modules"] // 컴파일에서 제외 할 파일 
+}
